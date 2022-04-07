@@ -41,3 +41,6 @@ body, .quote-inpute{
     border: 2px solid #A1922E;
     outline: none;
 }
+.quote-inpute:focus {
+    border-color: black;
+}
