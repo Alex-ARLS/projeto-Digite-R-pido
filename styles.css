@@ -24,7 +24,7 @@ body, .quote-inpute{
     max-width: 90%;
 }
 
-.timer {
+.tempo {
     position:absolute;
     top: 2rem;
     font-size: 3rem;
