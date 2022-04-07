@@ -11,3 +11,23 @@ body {
     background-color: rgb(50, 115, 220);
     
 }
+
+body, .quote-inpute{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bloco {
+    background-color:#F0DB4F;
+    padding: 1rem;
+    border-radius: .5rem;
+    width: 700px;
+    max-width: 90%;
+}
+
+.timer {
+    position:absolute;
+    top: 2rem;
+    font-size: 3rem;
+    color: #F0DB4F;
+    font: bold;
+}
