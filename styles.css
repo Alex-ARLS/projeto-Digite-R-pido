@@ -16,7 +16,7 @@ body, .quote-inpute{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.bloco {
+.container {
     background-color:#F0DB4F;
     padding: 1rem;
     border-radius: .5rem;
